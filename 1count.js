@@ -1,5 +1,5 @@
 function countDigits(n){
-    let count = 0;
+    let count = 0
     if(n==0){
         return 1;
     }
@@ -14,4 +14,5 @@ let n=-10;
 let result=countDigits(n);
 
 console.log(result);
+
 
