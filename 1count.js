@@ -10,9 +10,10 @@ function countDigits(n){
     }
     return count;             //function hamesha return karega ni toh result undefined hoga 
 }
-let n=-10;
+let n=-12;
 let result=countDigits(n);
 
 console.log(result);
+
 
 
